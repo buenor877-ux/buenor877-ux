@@ -12,7 +12,7 @@ Uso **Python e SQL** para automatizar processos e organizar dados, unindo mais d
 
 | Projeto | O que faz | Tecnologias |
 |---|---|---|
-| 🔒 [**PrivaIA**](https://github.com/buenor877-ux/PrivaIA) | Protege dados pessoais no uso de IA: detecta e mascara CPF, CNPJ, cartão, e-mail e telefone antes de enviar à IA, restaura na resposta e registra auditoria com HMAC (LGPD) | Python · FastAPI · Gemini · SQLite · Docker Compose · n8n · pytest |
+| 🔒 [**PrivaIA**](https://github.com/buenor877-ux/PrivaIA) · [ver online](https://privaia-leonardo.streamlit.app) | Protege dados pessoais no uso de IA: detecta e mascara CPF, CNPJ, cartão, e-mail e telefone antes de enviar à IA, restaura na resposta e registra auditoria com HMAC (LGPD) | Python · FastAPI · Gemini · SQLite · Docker Compose · n8n · pytest |
 | 📦 [**Controle de Estoque**](https://github.com/buenor877-ux/automacao_python) | Painel de indicadores, alerta de estoque mínimo, importação e exportação de Excel, backup e relatório diário por e-mail, testes automatizados | Python · Streamlit · pandas · SQLite · pytest |
 | 🛒 [**Bueno TEC**](https://github.com/buenor877-ux/Bueno-Tec-Site-) | Loja virtual de um negócio real de informática: 65 produtos, carrinho e pedido finalizado pelo WhatsApp | Python · Flask · HTML · CSS · JavaScript |
 | 🧾 [**Leitor de NF-e**](https://github.com/buenor877-ux/leitor_nfe) · [ver online](https://leitor-nfe-leonardo.streamlit.app) | Lê os XML das notas fiscais, guarda os dados em banco SQL e mostra gastos por fornecedor e por período | Python · pandas · SQLite · Streamlit |
